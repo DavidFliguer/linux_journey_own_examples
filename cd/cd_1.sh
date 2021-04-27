@@ -1,3 +1,5 @@
+# Basic example of cd moving through folders and using cd -
+
 # Show current working directory
 pwd
 
